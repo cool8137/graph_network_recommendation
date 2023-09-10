@@ -8,7 +8,13 @@ Using Graph Networks to Recommend Books to Customers
 
 ## Steps to run notebooks
 
-* Install: On mac run `make install-mac` to install required programs. On Linux use `make install-linux`. Note: linus installation is not tested.
-* Build virtual environment: Run `make build` to build the virtual environment.
-* Activate virtul environment: Run `source .venv/bin/activate` to activate the virtual environment.
-* Use this virtual environment to run the notebooks. E.g. `jupyter notebook` or use the `.venv/bin/python` kernel to run the notebook in an IDE like VS Code.
+* Install:
+  * On mac run `make install-mac` to install required programs.
+  * On Linux run `make install-linux`. Note: linus installation has not been tested.
+* Build virtual environment:
+  * Run `make build` to build the virtual environment.
+* Activate virtul environment:
+  * Run `source .venv/bin/activate` to activate the virtual environment.
+* Use this virtual environment to run the notebooks.
+  * To open notebooks on browser, run `jupyter notebook`
+  * To run on IDE, or use the `.venv/bin/python` kernel.
