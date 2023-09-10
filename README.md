@@ -1,5 +1,5 @@
 # graph_network_recommendation
-Using Graph Neural Networks to Recommend Books to Customers
+Using Graph Networks to Recommend Books to Customers
 
 ## Folder structure
 * `datasets`: contains the required input data.
